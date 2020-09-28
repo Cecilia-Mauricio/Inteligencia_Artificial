@@ -1,2 +1,7 @@
 # Inteligencia_Artificial
-Este repositorio será utilizado para subir trabajos de la materia de inteligencia artificial 
+
+García Sabino Montserrat  16590466
+Mauricio Trejo Cecilia    16590106
+
+
+
