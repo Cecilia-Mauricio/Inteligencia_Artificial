@@ -51,7 +51,7 @@ def main():
     print("Bienvenido a este programa")
     print('Puedes consultatar escribiendo consulta("<Animal>","<Tiene>","<Caracteristica>")')
     print('Puedes consultatar escribiendo consulta("<Animal>","<Vive>","<agua/tierra>")')
-    print('Puedes consultatar escribiendo consulta("<Animal>","<es>","<Clasificacion>")')
+    print('Puedes consultatar escribiendo consulta("<Animal/Clasificacion>","<es>","<Clasificacion>")')
     print("Para salir presiona 'q' o escribe quit()")
     Terminar= False
     while not Terminar:
