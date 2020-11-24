@@ -7,7 +7,7 @@
 import json
 import random
 from operator import itemgetter
-#para abrir nuestro documento json
+
 with open('Arbol.json') as file:
 	Conocimiento = json.load(file)
 
