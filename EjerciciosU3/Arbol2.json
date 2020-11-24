@@ -1,0 +1,12 @@
+{
+	"Arboles" : [
+		{"nodo":"Raiz", "rama":"10 A B"},
+		{"nodo":"A", "rama":"5 C D"},
+		{"nodo":"B", "rama":"15 E F"},
+		{"nodo":"C", "rama":"1"},
+		{"nodo":"D", "rama":"9"},
+		{"nodo":"E", "rama":"14"},
+		{"nodo":"F", "rama":"16 G"},
+		{"nodo":"G", "rama":"30"}
+	]
+}
